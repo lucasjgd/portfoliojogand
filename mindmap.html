@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <script src="https://unpkg.com/konva@9.2.0/konva.js"></script>
+    <meta charset="utf-8" />
+    <title>Mind Map</title>
+    <link rel="stylesheet" href="./css.css"/>
+  </head>
+  <body>	
+		<div>
+			<div class = "nom-mindmap">
+			  <label>Nom de la carte mentale  : </label>
+			  <input readonly type="text" id="className"/>
+		  </div>
+		  <div>
+			<span id="currentMode"></span>
+		  </div>
+		</div>
+	<div id="main" style="padding: 5px; display:flex; height:85vh">
+		<div id="container" style="border: 1px solid rgb(255, 255, 255);width:70%;overflow:hidden"></div>
+		<div id="menu" style="width:30%">
+			<form style="display:flex; flex-direction: column; padding:1em;" name="skill">
+				<label>Nom : </label><input style="width: 33em;" type="text" oninput="majField(this)" name="name" readonly/>
+				<label name = "txt-lien1">Lien 1 : </label><input style="width: 33em;" type="text" oninput="majField(this)" name="lien1" readonly/>
+				<label name = "txt-rep1">Nombre d'apparition du mot : </label><input style="width: 33em;" type="text" name="rep1" oninput="majField(this)" readonly />
+				<label name = "txt-lien2">Lien 2 : </label><input style="width: 33em;" type="text" oninput="majField(this)" name="lien2" readonly/>
+				<label name = "txt-rep2">Nombre d'apparition du mot : </label><input style="width: 33em;" type="text" name="rep2" oninput="majField(this)" readonly />
+				<label name = "txt-lien3">Lien 3 : </label><input style="width: 33em;" type="text" oninput="majField(this)" name="lien3" readonly/>
+				<label name = "txt-rep3">Nombre d'apparition du mot : </label><input style="width: 33em;" type="text" name="rep3" oninput="majField(this)" readonly />
+			</form>
+		</div>
+	</div>
+	<div class="tooltipND" id="tooltip">
+		
+	</div>
+	<script src="./config.js"></script>
+    <script src="./mindmap.js"></script>
+	<script src="./customScript.js"></script>
+	<a href="./veille.html"><button>Retour</button></a>
+  </body>
+</html>

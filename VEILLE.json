@@ -1,0 +1,1271 @@
+{
+    "displayName": "Veille technologique",
+    "skills": [
+        {
+            "icon": "",
+            "id": 1,
+            "name": "News",
+            "parents": [],
+            "childs": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "fillColor": "#ffffff",
+            "posX": 500,
+            "posY": -50
+        },
+        {
+            "icon": "",
+            "id": 2,
+            "name": "Évènement",
+            "parents": [
+                {
+                    "id": 1
+                }
+            ],
+            "childs": [
+                {
+                    "id": 31
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 40
+                },
+                {
+                    "id": 41
+                },
+                {
+                    "id": 42
+                },
+                {
+                    "id": 38
+                },
+                {
+                    "id": 37
+                },
+                {
+                    "id": 36
+                },
+                {
+                    "id": 44
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 56
+                },
+                {
+                    "id": 55
+                },
+                {
+                    "id": 53
+                },
+                {
+                    "id": 49
+                },
+                {
+                    "id": 57
+                },
+                {
+                    "id": 58
+                },
+                {
+                    "id": 60
+                },
+                {
+                    "id": 51
+                },
+                {
+                    "id": 65
+                },
+                {
+                    "id": 66
+                },
+                {
+                    "id": 67
+                },
+                {
+                    "id": 69
+                },
+                {
+                    "id": 71
+                },
+                {
+                    "id": 73
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 75
+                },
+                {
+                    "id": 79
+                },
+                {
+                    "id": 80
+                },
+                {
+                    "id": 81
+                }
+            ],
+            "fillColor": "#e65656",
+            "posX": 900,
+            "posY": 500
+        },
+        {
+            "icon": "",
+            "id": 3,
+            "name": "Technologie",
+            "parents": [
+                {
+                    "id": 1
+                }
+            ],
+            "childs": [
+                {
+                    "id": 22
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 31
+                },
+                {
+                    "id": 42
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 41
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 46
+                },
+                {
+                    "id": 48
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 38
+                },
+                {
+                    "id": 49
+                },
+                {
+                    "id": 50
+                },
+                {
+                    "id": 51
+                },
+                {
+                    "id": 52
+                },
+                {
+                    "id": 57
+                },
+                {
+                    "id": 58
+                },
+                {
+                    "id": 59
+                },
+                {
+                    "id": 67
+                },
+                {
+                    "id": 53
+                },
+                {
+                    "id": 56
+                },
+                {
+                    "id": 68
+                },
+                {
+                    "id": 69
+                },
+                {
+                    "id": 70
+                },
+                {
+                    "id": 71
+                },
+                {
+                    "id": 76
+                },
+                {
+                    "id": 77
+                },
+                {
+                    "id": 78
+                }
+            ],
+            "fillColor": "#f9f353",
+            "posX": 500,
+            "posY": 500
+        },
+        {
+            "icon": "",
+            "id": 4,
+            "name": "Personnage",
+            "parents": [
+                {
+                    "id": 1
+                }
+            ],
+            "childs": [
+                {
+                    "id": 42
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 49
+                },
+                {
+                    "id": 50
+                },
+                {
+                    "id": 57
+                },
+                {
+                    "id": 62
+                },
+                {
+                    "id": 59
+                },
+                {
+                    "id": 51
+                },
+                {
+                    "id": 63
+                },
+                {
+                    "id": 64
+                },
+                {
+                    "id": 56
+                },
+                {
+                    "id": 55
+                },
+                {
+                    "id": 72
+                },
+                {
+                    "id": 71
+                },
+                {
+                    "id": 74
+                },
+                {
+                    "id": 79
+                }
+            ],
+            "fillColor": "#6b9cdb",
+            "posX": 100,
+            "posY": 500,
+            "lien2": "",
+            "rep2": ""
+        },
+        {
+            "icon": "",
+            "id": 9,
+            "name": "Microsoft",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "posX": 950,
+            "posY": 1250,
+            "description": "5",
+            "rep1": "25",
+            "rep2": "7",
+            "rep3": "11",
+            "lien1": "https://support.microsoft.com/fr-fr/copilot",
+            "lien2": "https://leclaireur.fnac.com/article/402427-copilot-lia-de-microsoft-partage-de-fausses-informations-sur-les-elections/",
+            "lien3": "https://www.capital.fr/entreprises-marches/qui-est-sam-altman-lancien-directeur-a-lorigine-de-chatgpt-de-retour-chez-openai-1486117"
+        },
+        {
+            "icon": "",
+            "id": 12,
+            "name": "Elon Musk",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "posX": -550,
+            "posY": 1250,
+            "rep1": "11",
+            "rep2": "8",
+            "rep3": "16",
+            "lien1": "https://www.france24.com/fr/%C3%A9co-tech/20240130-neuralink-la-start-up-d-elon-musk-pose-%C3%A0-son-tour-son-premier-implant-c%C3%A9r%C3%A9bral",
+            "lien2": "https://www.france24.com/fr/info-en-continu/20231118-apr%C3%A8s-une-explosion-2%C3%A8me-vol-test-pour-l-immense-fus%C3%A9e-starship-de-spacex",
+            "lien3": "https://www.futura-sciences.com/tech/personnalites/tech-elon-musk-1661/"
+        },
+        {
+            "icon": "",
+            "id": 14,
+            "name": "Space X",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "posX": 1400,
+            "posY": 1250,
+            "rep1": "20",
+            "rep2": "6",
+            "lien1": "https://www.france24.com/fr/info-en-continu/20231118-apr%C3%A8s-une-explosion-2%C3%A8me-vol-test-pour-l-immense-fus%C3%A9e-starship-de-spacex",
+            "lien2": "https://www.futura-sciences.com/tech/personnalites/tech-elon-musk-1661/",
+            "rep3": "33",
+            "lien3": "https://model-sport.com/blogs/news/pourquoi-elon-musk-cree-spacex#:~:text=Elon%20Musk%20a%20cr%C3%A9%C3%A9%20SpaceX%20en%202002%20avec%20l'objectif,spatiaux%20plus%20abordables%20et%20accessibles."
+        },
+        {
+            "icon": "",
+            "id": 19,
+            "name": "Automatique",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "posX": -150,
+            "posY": -250,
+            "rep2": "",
+            "lien1": "https://www.coe.int/fr/web/artificial-intelligence/what-is-ai",
+            "rep1": "9"
+        },
+        {
+            "icon": "",
+            "id": 21,
+            "name": "Modèle",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f7ff00",
+            "posX": 1,
+            "posY": -250,
+            "lien1": "https://www.coe.int/fr/web/artificial-intelligence/what-is-ai",
+            "rep1": "5"
+        },
+        {
+            "icon": "",
+            "id": 22,
+            "name": "Systèmes",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#fff700",
+            "posX": -300,
+            "posY": -250,
+            "lien1": "https://www.coe.int/fr/web/artificial-intelligence/what-is-ai",
+            "description": "6",
+            "rep1": "6",
+            "lien3": "",
+            "rep3": ""
+        },
+        {
+            "icon": "",
+            "id": 26,
+            "name": "Neuralink",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "posX": 1700,
+            "posY": 650,
+            "lien1": "https://www.france24.com/fr/%C3%A9co-tech/20240130-neuralink-la-start-up-d-elon-musk-pose-%C3%A0-son-tour-son-premier-implant-c%C3%A9r%C3%A9bral",
+            "rep1": "12",
+            "lien2": "https://www.ouest-france.fr/economie/elon-musk/neuralink-elon-musk-annonce-quun-premier-implant-cerebral-a-ete-pose-4f327016-41d2-4e8f-8f6b-0f992d65d428",
+            "rep2": "11"
+        },
+        {
+            "icon": "",
+            "id": 31,
+            "name": "Jeu",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "posX": 1700,
+            "posY": 1050,
+            "description": "5",
+            "lien1": "https://www.datarockstars.ai/lintelligence-artificielle-et-les-jeux-video/",
+            "rep1": "14",
+            "lien2": "https://www.stevejobs.fr/ipad-jeux-en-ligne",
+            "rep2": "14"
+        },
+        {
+            "icon": "",
+            "id": 32,
+            "name": "iPad",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "posX": 1700,
+            "posY": 150,
+            "lien1": "https://www.stevejobs.fr/ipad-jeux-en-ligne",
+            "rep1": "15"
+        },
+        {
+            "icon": "",
+            "id": 34,
+            "name": "Starship",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "posX": 1400,
+            "posY": -250,
+            "lien1": "https://www.france24.com/fr/info-en-continu/20231118-apr%C3%A8s-une-explosion-2%C3%A8me-vol-test-pour-l-immense-fus%C3%A9e-starship-de-spacex",
+            "rep1": "22"
+        },
+        {
+            "icon": "",
+            "id": 36,
+            "name": "Vaisseau",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "posX": 1700,
+            "posY": -50,
+            "lien1": "https://www.france24.com/fr/info-en-continu/20231118-apr%C3%A8s-une-explosion-2%C3%A8me-vol-test-pour-l-immense-fus%C3%A9e-starship-de-spacex",
+            "rep1": "6"
+        },
+        {
+            "icon": "",
+            "id": 37,
+            "name": "Test",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "posX": 1700,
+            "posY": -150,
+            "rep1": "7",
+            "lien1": "https://www.france24.com/fr/info-en-continu/20231118-apr%C3%A8s-une-explosion-2%C3%A8me-vol-test-pour-l-immense-fus%C3%A9e-starship-de-spacex"
+        },
+        {
+            "icon": "",
+            "id": 38,
+            "name": "Fusée",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "posX": 1700,
+            "posY": 950,
+            "rep1": "20",
+            "lien1": "https://www.france24.com/fr/info-en-continu/20231118-apr%C3%A8s-une-explosion-2%C3%A8me-vol-test-pour-l-immense-fus%C3%A9e-starship-de-spacex",
+            "lien2": "https://model-sport.com/blogs/news/pourquoi-elon-musk-cree-spacex#:~:text=Elon%20Musk%20a%20cr%C3%A9%C3%A9%20SpaceX%20en%202002%20avec%20l'objectif,spatiaux%20plus%20abordables%20et%20accessibles.",
+            "rep2": "8"
+        },
+        {
+            "icon": "",
+            "id": 40,
+            "name": "Informations",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "posX": 1250,
+            "posY": -250,
+            "lien1": "https://leclaireur.fnac.com/article/402427-copilot-lia-de-microsoft-partage-de-fausses-informations-sur-les-elections/",
+            "rep1": "10"
+        },
+        {
+            "icon": "",
+            "id": 41,
+            "name": "Copilot",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "posX": 1700,
+            "posY": 850,
+            "lien2": "https://leclaireur.fnac.com/article/402427-copilot-lia-de-microsoft-partage-de-fausses-informations-sur-les-elections/",
+            "rep2": "5",
+            "rep1": "24",
+            "lien1": "https://support.microsoft.com/fr-fr/copilot"
+        },
+        {
+            "icon": "",
+            "id": 42,
+            "name": "IA",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "posX": 50,
+            "posY": 1250,
+            "rep1": "25",
+            "rep2": "16",
+            "rep3": "22",
+            "lien1": "https://www.datarockstars.ai/lintelligence-artificielle-et-les-jeux-video/",
+            "lien2": "https://leclaireur.fnac.com/article/402427-copilot-lia-de-microsoft-partage-de-fausses-informations-sur-les-elections/",
+            "lien3": "https://www.capital.fr/entreprises-marches/qui-est-sam-altman-lancien-directeur-a-lorigine-de-chatgpt-de-retour-chez-openai-1486117"
+        },
+        {
+            "icon": "",
+            "id": 44,
+            "name": "Site",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "posX": 1700,
+            "posY": 50,
+            "lien1": "https://www.stevejobs.fr/ipad-jeux-en-ligne",
+            "rep1": "9"
+        },
+        {
+            "icon": "",
+            "id": 46,
+            "name": "Technologique",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f7ff00",
+            "lien1": "https://model-sport.com/blogs/news/pourquoi-elon-musk-cree-spacex#:~:text=Elon%20Musk%20a%20cr%C3%A9%C3%A9%20SpaceX%20en%202002%20avec%20l'objectif,spatiaux%20plus%20abordables%20et%20accessibles.",
+            "rep1": "5",
+            "posX": -450,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 48,
+            "name": "Spatial",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://model-sport.com/blogs/news/pourquoi-elon-musk-cree-spacex#:~:text=Elon%20Musk%20a%20cr%C3%A9%C3%A9%20SpaceX%20en%202002%20avec%20l'objectif,spatiaux%20plus%20abordables%20et%20accessibles.",
+            "rep1": "17",
+            "posX": -750,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 49,
+            "name": "ChatGPT",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "lien1": "https://www.capital.fr/entreprises-marches/qui-est-sam-altman-lancien-directeur-a-lorigine-de-chatgpt-de-retour-chez-openai-1486117",
+            "rep1": "9",
+            "rep2": "90",
+            "lien2": "https://www.tomsguide.fr/chatgpt-quest-ce-que-cest-comment-sen-servir-tout-savoir-sur-la-celebre-ia/",
+            "posX": 1100,
+            "posY": 1250,
+            "lien3": "https://www.lesnumeriques.com/voiture/intelligence-artificielle-peugeot-integre-chatgpt-a-ses-voitures-n218165.html",
+            "rep3": "10"
+        },
+        {
+            "icon": "",
+            "id": 50,
+            "name": "OpenAI",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#8ec092",
+            "posX": -750,
+            "posY": 1000,
+            "lien1": "https://www.tomsguide.fr/chatgpt-quest-ce-que-cest-comment-sen-servir-tout-savoir-sur-la-celebre-ia/",
+            "rep1": "33",
+            "lien2": "https://www.capital.fr/entreprises-marches/qui-est-sam-altman-lancien-directeur-a-lorigine-de-chatgpt-de-retour-chez-openai-1486117",
+            "rep2": "26"
+        },
+        {
+            "icon": "",
+            "id": 51,
+            "name": "Google",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "lien1": "https://www.tomsguide.fr/chatgpt-quest-ce-que-cest-comment-sen-servir-tout-savoir-sur-la-celebre-ia/",
+            "rep1": "9",
+            "posX": 1250,
+            "posY": 1250,
+            "lien2": "https://etudestech.com/portrait/portrait-larry-page-fondateur-google/",
+            "rep2": "51",
+            "lien3": "https://www.usine-digitale.fr/article/google-et-nvidia-viennent-preter-main-forte-aux-start-up-orientees-ia.N2211317",
+            "rep3": "16"
+        },
+        {
+            "icon": "",
+            "id": 52,
+            "name": "Chatbot",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://www.tomsguide.fr/chatgpt-quest-ce-que-cest-comment-sen-servir-tout-savoir-sur-la-celebre-ia/",
+            "rep1": "21",
+            "posX": -750,
+            "posY": -150
+        },
+        {
+            "icon": "",
+            "id": 53,
+            "name": "Voiture",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "rep1": "24",
+            "lien1": "https://www.lesnumeriques.com/voiture/intelligence-artificielle-peugeot-integre-chatgpt-a-ses-voitures-n218165.html",
+            "posX": 1700,
+            "posY": 750,
+            "lien2": "https://www.largus.fr/actualite-automobile/peugeot-3008-2024-moteurs-batteries-plate-forme-sa-technologie-expliquee-30032603.html",
+            "rep2": "8"
+        },
+        {
+            "icon": "",
+            "id": 55,
+            "name": "Automobile",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f77ee7",
+            "lien1": "https://www.lesnumeriques.com/voiture/intelligence-artificielle-peugeot-integre-chatgpt-a-ses-voitures-n218165.html",
+            "rep1": "10",
+            "posX": 425,
+            "posY": 1250,
+            "lien2": "https://www.lesechos.fr/2017/08/armand-peugeot-la-naissance-des-autos-peugeot-1116438",
+            "rep2": "7"
+        },
+        {
+            "icon": "",
+            "id": 56,
+            "name": "Peugeot",
+            "parents": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "lien1": "https://www.lesnumeriques.com/voiture/intelligence-artificielle-peugeot-integre-chatgpt-a-ses-voitures-n218165.html",
+            "rep1": "9",
+            "posX": -100,
+            "posY": 1250,
+            "lien2": "https://www.largus.fr/actualite-automobile/peugeot-3008-2024-moteurs-batteries-plate-forme-sa-technologie-expliquee-30032603.html",
+            "rep2": "61",
+            "lien3": "https://www.lesechos.fr/2017/08/armand-peugeot-la-naissance-des-autos-peugeot-1116438",
+            "rep3": "41"
+        },
+        {
+            "icon": "",
+            "id": 57,
+            "name": "Apple",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "lien1": "https://www.lesnumeriques.com/informatique/apple-pourrait-integrer-l-informatique-spatiale-a-plusieurs-appareils-n220495.html",
+            "rep1": "23",
+            "lien2": "https://www.gala.fr/stars_et_gotha/steve_jobs",
+            "rep2": "12",
+            "lien3": "https://www.linternaute.com/hightech/magazine/1277645-keynote-apple-2023-apple-devoile-un-casque-a-3500-dollars/",
+            "rep3": "35",
+            "posX": -250,
+            "posY": 1250
+        },
+        {
+            "icon": "",
+            "id": 58,
+            "name": "Vision Pro",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "lien1": "https://www.lesnumeriques.com/informatique/apple-pourrait-integrer-l-informatique-spatiale-a-plusieurs-appareils-n220495.html",
+            "lien2": "https://www.linternaute.com/hightech/magazine/1277645-keynote-apple-2023-apple-devoile-un-casque-a-3500-dollars/",
+            "rep1": "10",
+            "rep2": "5",
+            "posX": 1700,
+            "posY": 1150
+        },
+        {
+            "icon": "",
+            "id": 59,
+            "name": "Informatique",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#8ec092",
+            "lien1": "https://www.lesnumeriques.com/informatique/apple-pourrait-integrer-l-informatique-spatiale-a-plusieurs-appareils-n220495.html",
+            "rep1": "8",
+            "posX": -750,
+            "posY": 1100,
+            "lien2": "https://etudestech.com/portrait/portrait-larry-page-fondateur-google/",
+            "rep2": "8"
+        },
+        {
+            "icon": "",
+            "id": 60,
+            "name": "Keynote",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.linternaute.com/hightech/magazine/1277645-keynote-apple-2023-apple-devoile-un-casque-a-3500-dollars/",
+            "rep1": "15",
+            "posX": 1700,
+            "posY": 350
+        },
+        {
+            "icon": "",
+            "id": 62,
+            "name": "Larry Page",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#0070c0",
+            "lien1": "https://etudestech.com/portrait/portrait-larry-page-fondateur-google/",
+            "rep1": "31",
+            "posX": -750,
+            "posY": 600
+        },
+        {
+            "icon": "",
+            "id": 63,
+            "name": "Loon",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#0070c0",
+            "lien1": "https://etudestech.com/portrait/portrait-larry-page-fondateur-google/",
+            "rep1": "6",
+            "posX": -750,
+            "posY": 500
+        },
+        {
+            "icon": "",
+            "id": 64,
+            "name": "Alphabet",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#0070c0",
+            "lien1": "https://etudestech.com/portrait/portrait-larry-page-fondateur-google/",
+            "rep1": "9",
+            "posX": -750,
+            "posY": 400
+        },
+        {
+            "icon": "",
+            "id": 65,
+            "name": "Nvidia",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.usine-digitale.fr/article/google-et-nvidia-viennent-preter-main-forte-aux-start-up-orientees-ia.N2211317",
+            "rep1": "16",
+            "posX": 1100,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 66,
+            "name": "Cloud",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.usine-digitale.fr/article/google-et-nvidia-viennent-preter-main-forte-aux-start-up-orientees-ia.N2211317",
+            "rep1": "12",
+            "posX": 800,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 67,
+            "name": "Start-up",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "lien1": "https://www.usine-digitale.fr/article/google-et-nvidia-viennent-preter-main-forte-aux-start-up-orientees-ia.N2211317",
+            "rep1": "12",
+            "lien2": "https://www.france24.com/fr/%C3%A9co-tech/20240130-neuralink-la-start-up-d-elon-musk-pose-%C3%A0-son-tour-son-premier-implant-c%C3%A9r%C3%A9bral",
+            "rep2": "6",
+            "posX": 1700,
+            "posY": 1250
+        },
+        {
+            "icon": "",
+            "id": 68,
+            "name": "SUV",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://www.largus.fr/actualite-automobile/peugeot-3008-2024-moteurs-batteries-plate-forme-sa-technologie-expliquee-30032603.html",
+            "rep1": "7",
+            "posX": -750,
+            "posY": 50
+        },
+        {
+            "icon": "",
+            "id": 69,
+            "name": "Hybrid",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f4a34e",
+            "lien1": "https://www.largus.fr/actualite-automobile/peugeot-3008-2024-moteurs-batteries-plate-forme-sa-technologie-expliquee-30032603.html",
+            "rep1": "13",
+            "lien2": "https://www.tf1info.fr/transports/video-voitures-hybrides-rechargeables-epinglees-par-la-commission-europeenne-les-constructeurs-mentent-ils-aux-acheteurs-sur-la-consommation-de-carburant-2294429.html",
+            "rep2": "5",
+            "posX": 1700,
+            "posY": 550
+        },
+        {
+            "icon": "",
+            "id": 70,
+            "name": "i-Cockpit",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://www.largus.fr/actualite-automobile/peugeot-3008-2024-moteurs-batteries-plate-forme-sa-technologie-expliquee-30032603.html",
+            "rep1": "6",
+            "posX": -750,
+            "posY": -50
+        },
+        {
+            "icon": "",
+            "id": 71,
+            "name": "Véhicule",
+            "parents": [
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#969696",
+            "lien1": "https://www.largus.fr/actualite-automobile/peugeot-3008-2024-moteurs-batteries-plate-forme-sa-technologie-expliquee-30032603.html",
+            "rep1": "9",
+            "lien2": "https://www.lesechos.fr/2017/08/armand-peugeot-la-naissance-des-autos-peugeot-1116438",
+            "rep2": "5",
+            "lien3": "https://www.tf1info.fr/transports/video-voitures-hybrides-rechargeables-epinglees-par-la-commission-europeenne-les-constructeurs-mentent-ils-aux-acheteurs-sur-la-consommation-de-carburant-2294429.html",
+            "rep3": "5",
+            "posX": -400,
+            "posY": 1250
+        },
+        {
+            "icon": "",
+            "id": 72,
+            "name": "Moteur",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#0070c0",
+            "lien1": "https://www.lesechos.fr/2017/08/armand-peugeot-la-naissance-des-autos-peugeot-1116438",
+            "rep1": "7",
+            "posX": -750,
+            "posY": 800
+        },
+        {
+            "icon": "",
+            "id": 73,
+            "name": "Consommation",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.tf1info.fr/transports/video-voitures-hybrides-rechargeables-epinglees-par-la-commission-europeenne-les-constructeurs-mentent-ils-aux-acheteurs-sur-la-consommation-de-carburant-2294429.html",
+            "rep1": "10",
+            "posX": 950,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 74,
+            "name": "Steve Jobs ",
+            "parents": [
+                {
+                    "id": 4
+                }
+            ],
+            "childs": [],
+            "fillColor": "#0070c0",
+            "lien1": "https://www.gala.fr/stars_et_gotha/steve_jobs",
+            "rep1": "37",
+            "posX": -750,
+            "posY": 700
+        },
+        {
+            "icon": "",
+            "id": 75,
+            "name": "Implant",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.ouest-france.fr/economie/elon-musk/neuralink-elon-musk-annonce-quun-premier-implant-cerebral-a-ete-pose-4f327016-41d2-4e8f-8f6b-0f992d65d428",
+            "rep1": "12",
+            "posX": 1700,
+            "posY": 250
+        },
+        {
+            "icon": "",
+            "id": 76,
+            "name": "Nasa",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://www.geo.fr/sciences/une-nouvelle-force-la-nasa-decouvre-un-moyen-de-faire-decoller-une-fusee-sans-propulseur-219914",
+            "rep1": "16",
+            "posX": -750,
+            "posY": 150
+        },
+        {
+            "icon": "",
+            "id": 77,
+            "name": "Electrostatique",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://www.geo.fr/sciences/une-nouvelle-force-la-nasa-decouvre-un-moyen-de-faire-decoller-une-fusee-sans-propulseur-219914",
+            "rep1": "5",
+            "posX": -750,
+            "posY": 250
+        },
+        {
+            "icon": "",
+            "id": 78,
+            "name": "Force",
+            "parents": [
+                {
+                    "id": 3
+                }
+            ],
+            "childs": [],
+            "fillColor": "#faf700",
+            "lien1": "https://www.geo.fr/sciences/une-nouvelle-force-la-nasa-decouvre-un-moyen-de-faire-decoller-une-fusee-sans-propulseur-219914",
+            "rep1": "13",
+            "posX": -600,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 79,
+            "name": "Tesla ",
+            "parents": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#f77ee7",
+            "lien1": "https://www.dw.com/en/argentinas-milei-meets-elon-musk-at-tesla-factory/a-68809179",
+            "rep1": "13",
+            "lien2": "https://www.futura-sciences.com/tech/personnalites/tech-elon-musk-1661/",
+            "rep2": "10",
+            "posX": 575,
+            "posY": 1250
+        },
+        {
+            "icon": "",
+            "id": 80,
+            "name": "Milei",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.dw.com/en/argentinas-milei-meets-elon-musk-at-tesla-factory/a-68809179",
+            "rep1": "13",
+            "posX": 1550,
+            "posY": -250
+        },
+        {
+            "icon": "",
+            "id": 81,
+            "name": "Liberté",
+            "parents": [
+                {
+                    "id": 2
+                }
+            ],
+            "childs": [],
+            "fillColor": "#e30045",
+            "lien1": "https://www.dw.com/en/argentinas-milei-meets-elon-musk-at-tesla-factory/a-68809179",
+            "rep1": "5",
+            "posX": 1700,
+            "posY": -250
+        }
+    ],
+    "xOffset": 335,
+    "yOffset": 120,
+    "scale": 0.38
+}

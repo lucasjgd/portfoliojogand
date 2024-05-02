@@ -1,0 +1,145 @@
+/* Index et général */
+body{
+	background-color: #6c757d;
+	margin : 0;
+	font-family: Segoe UI;
+}
+
+nav{
+	color: white;
+	display:flex;
+	background-color:#007bff;
+	align-items:center;
+	padding: 1em 1em;
+}
+
+nav > a{
+	font-size:20px;
+}
+
+nav div{
+	max-width:100%;
+	display:inline-flex;
+	flex-grow : 1;
+}
+
+nav div a{
+	padding-left:1em;
+}
+
+h1{
+	font-size:2.5em;
+	font-weight: normal;
+	margin:0.1em;
+	color: rgb(33, 37, 41);
+}
+
+a{
+	text-decoration : none;
+	color:white;
+}
+
+section{
+	width:100%;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+
+/* Présentation */
+
+.presContent p{
+	margin-left:10%;
+	margin-right:10%;
+	color: rgb(33, 37, 41);
+	font-size : 1em;
+	line-height : 1.5;
+}
+
+/* Mon Contenu */
+
+.contContent{
+	color:white;
+	flex-direction:row;
+	flex-wrap : wrap;
+}
+
+.contContent > div{
+	box-sizing:border-box;
+	flex : 0 0 25%;
+	padding-left:15px;
+	padding-right:15px;
+	margin-top : 10px;
+	margin-bottom: 10px;
+}
+
+
+.contContent > div > div{
+	display:flex;
+	flex-direction:column;
+	background-color: #007bff;
+	border-radius: 5px;
+	min-width: 300px;
+}
+
+.contContent p{
+	padding : 0.25em 1.25em;
+	line-height : 1.5;
+}
+
+.contContent > div > div > div:nth-child(1){
+	border-bottom : 1px solid rgba(0, 0, 0, 0.125);
+	background-color: rgba(0, 0, 0, 0.03);
+}
+
+.contContent > div > div > div:nth-child(2) p{
+	overflow:hidden;
+	height:120px;
+}
+
+.contContent > div > div > div:nth-child(3){
+	border-top : 1px solid rgba(0, 0, 0, 0.125);
+	background-color: rgba(0, 0, 0, 0.03);
+}
+
+/* Menu fixe*/
+
+nav{
+	position:sticky;
+	top:0;
+}
+
+/* Active et transition du menu */
+
+nav div a:hover{
+	font-weight:bold;
+}
+
+.active{
+	font-weight:bold;
+}
+
+nav div a{
+	transition: all 0.2s ease;
+}
+
+/* Medias queries */
+
+@media (max-width : 1336px){
+	.contContent > div{
+		flex : 0 0 33%;
+	}
+}
+
+@media (max-width : 1006px){
+	.contContent > div{
+		flex : 0 0 50%;
+	}
+}
+
+@media (max-width : 676px){
+	.contContent > div{
+		flex : 0 0 100%;
+	}
+}
+
